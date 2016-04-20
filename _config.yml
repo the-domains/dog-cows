@@ -1,0 +1,14 @@
+layout_spectrum: 0.2569759
+typography_spectrum: 0.9255471
+color:
+  saturation: 0.2402989
+  lightness: 0.966146
+  brandStrength: 0.275077
+  rhythmicContrast: 0.3499885
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Dog-Cows
