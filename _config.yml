@@ -1,14 +1,28 @@
+name: Dog-Cows
+favicon: null
 layout_spectrum: 0.2569759
 typography_spectrum: 0.9255471
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2402989
-  lightness: 0.966146
-  brandStrength: 0.275077
-  rhythmicContrast: 0.3499885
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-name: Dog-Cows
+    - '#000000'
+    - '#848483'
+    - '#515150'
+    - '#323231'
+    - '#aeaead'
+  brandStrength: 0.6875
+  lightness: 0.966146
+  saturation: 0.5625
+  rhythmicContrast: 0.75
+purpose: []
